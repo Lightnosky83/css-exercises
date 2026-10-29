@@ -1,4 +1,9 @@
-* {
+ div {
     background: red;
     text-align: center;
+    color: white;
+    font-family: "Times New Roman", serif;
+    font-size: 32px;
+    text-transform: uppercase;
+
 }
